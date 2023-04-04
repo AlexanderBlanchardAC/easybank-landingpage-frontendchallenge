@@ -1,0 +1,1 @@
+A coding chanllenge from Frontend Mentor, which was to code the landing page for Easy Bank. Media queries used to effect presentation at different screen widths.
